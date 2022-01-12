@@ -1,12 +1,12 @@
 {
   "name": "booking-calendar",
   "version": "1.0.0",
-  "main": "src/index.ts",
+  "main": "app/index.ts",
   "repository": "https://github.com/sparkidea25/booking-calendar.git",
   "author": "sparkidea25 <michaeldaralola123@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "dev": "nodemon src/index.ts"
+    "dev": "nodemon app/index.ts"
   },
   "dependencies": {
     "bluebird": "^3.7.2",
